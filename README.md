@@ -37,7 +37,7 @@ npm test
 
 |-- pages  (页面组件)
 
--- |-- CarouselManagement (轮播管理)
+    |-- CarouselManagement (轮播管理)
 
 ---- |-- ChannelManagement (频道管理)
 
