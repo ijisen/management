@@ -41,12 +41,10 @@ npm test
     |-- ProgramCheck (排播管理)
     |-- ProgramView (节目单审核)
     |-- SchedulingManagement (节目单查看)
-
   |-- ResourceManagement (资源管理)
     |-- DirectoryTree (目录树维护)
     |-- ResourceAudit (资源上传)
     |-- ResourceUpload (资源维护)
-
   |-- SystemSettings (系统设置)
 
 |-- router  (路由配置文件)
