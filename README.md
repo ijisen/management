@@ -26,7 +26,7 @@ npm run e2e
 # run all tests
 npm test
 ```
-
+``` bash
 # 目录结构说明(src)
 
 ## (开发工程目录 src)
@@ -70,4 +70,4 @@ npm test
 |-- APP.vue  (初始页面配置)
 
 |-- main.js  (vue全局配置)
-
+```
