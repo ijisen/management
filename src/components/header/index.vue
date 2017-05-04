@@ -31,6 +31,17 @@
           <Icon type="settings"></Icon>
           系统设置
         </Menu-item>
+        <Submenu name="Move">
+          <template slot="title">
+            <Icon type="ios-film"></Icon>
+            电影
+          </template>
+          <ul>
+            <Menu-item name="Move1">Move1</Menu-item>
+            <Menu-item name="Move2">Move2</Menu-item>
+            <Menu-item name="Move3">Move3</Menu-item>
+          </ul>
+        </Submenu>
       </Menu>
     </div>
   </div>

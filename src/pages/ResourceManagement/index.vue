@@ -7,6 +7,9 @@
 </template>
 <!-- 添加"scoped" 属性限制CSS样式只在当前组件中有效 -->
 <style scoped>
+  .layout{
+
+  }
   .nav{
     margin: 0 auto;
   }

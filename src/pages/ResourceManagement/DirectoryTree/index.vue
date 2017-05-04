@@ -21,6 +21,7 @@
 <!-- 添加"scoped" 属性限制CSS样式只在当前组件中有效 -->
 <style scoped>
   .layout{
+    background-color: red;
     padding-left: 10%;
     padding-right: 10%;
   }

@@ -38,15 +38,22 @@ npm test
 |-- pages  (页面组件)
 
   |-- CarouselManagement (轮播管理)
-    |-- ChannelManagement (频道管理)
-    |-- ProgramCheck (排播管理)
-    |-- ProgramView (节目单审核)
-    |-- SchedulingManagement (节目单查看)
+
+##    |-- ChannelManagement (频道管理)
+
+##    |-- ProgramCheck (排播管理)
+
+##    |-- ProgramView (节目单审核)
+
+##    |-- SchedulingManagement (节目单查看)
 
   |-- ResourceManagement (资源管理)
-    |-- DirectoryTree (目录树维护)
-    |-- ResourceAudit (资源上传)
-    |-- ResourceUpload (资源维护)
+
+##    |-- DirectoryTree (目录树维护)
+
+##     |-- ResourceAudit (资源上传)
+
+##     |-- ResourceUpload (资源维护)
 
   |-- SystemSettings (系统设置)
 
