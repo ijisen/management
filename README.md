@@ -5,7 +5,7 @@
 ## 创建流程
 
 ``` bash
-# install dependencies
+# 安装dependencies依赖文件
 npm install
 
 # 运行本地开发环境 localhost:8080
@@ -53,7 +53,7 @@ npm test
   |-- CarouselManagement (轮播管理)
   |-- ResourceManagement (资源管理)
   |-- SystemSettings (系统设置)
-  
+
 |-- style  (全局样式文件，lees文件)
 
 |-- APP.vue  (初始页面配置)
