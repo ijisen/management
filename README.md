@@ -31,15 +31,15 @@ npm test
 
 ## (开发工程目录 src)
 
-|-- assets  (存放静态文件，图片)
+>|-- assets  (存放静态文件，图片)
 
-|-- components  (组件库)
+>|-- components  (组件库)
 
-|-- pages  (页面组件)
+>|-- pages  (页面组件)
 
-  |-- CarouselManagement (轮播管理)
+>>|-- CarouselManagement (轮播管理)
 
-##    |-- ChannelManagement (频道管理)
+>>>    |-- ChannelManagement (频道管理)
 
 ##    |-- ProgramCheck (排播管理)
 
