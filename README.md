@@ -31,42 +31,42 @@ npm test
 
 ## (开发工程目录 src)
 
->|-- assets  (存放静态文件，图片)
+> |-- assets  (存放静态文件，图片)
 
->|-- components  (组件库)
+> |-- components  (组件库)
 
->|-- pages  (页面组件)
+> |-- pages  (页面组件)
 
->>|-- CarouselManagement (轮播管理)
+>> |-- CarouselManagement (轮播管理)
 
->>>    |-- ChannelManagement (频道管理)
+>>>  |-- ChannelManagement (频道管理)
 
-##    |-- ProgramCheck (排播管理)
+>>>  |-- ProgramCheck (排播管理)
 
-##    |-- ProgramView (节目单审核)
+>>>  |-- ProgramView (节目单审核)
 
-##    |-- SchedulingManagement (节目单查看)
+>>>  |-- SchedulingManagement (节目单查看)
 
-  |-- ResourceManagement (资源管理)
+>> |-- ResourceManagement (资源管理)
 
-##    |-- DirectoryTree (目录树维护)
+>>>  |-- DirectoryTree (目录树维护)
 
-##     |-- ResourceAudit (资源上传)
+>>>  |-- ResourceAudit (资源上传)
 
-##     |-- ResourceUpload (资源维护)
+>>>  |-- ResourceUpload (资源维护)
 
-  |-- SystemSettings (系统设置)
+>> |-- SystemSettings (系统设置)
 
-|-- router  (路由配置文件)
+> |-- router  (路由配置文件)
 
-  |-- CarouselManagement (轮播管理)
+>> |-- CarouselManagement (轮播管理)
 
-  |-- ResourceManagement (资源管理)
+>> |-- ResourceManagement (资源管理)
 
-  |-- SystemSettings (系统设置)
+>> |-- SystemSettings (系统设置)
 
-|-- style  (全局样式文件，lees文件)
+> |-- style  (全局样式文件，lees文件)
 
-|-- APP.vue  (初始页面配置)
+> |-- APP.vue  (初始页面配置)
 
-|-- main.js  (vue全局配置)
+> |-- main.js  (vue全局配置)
